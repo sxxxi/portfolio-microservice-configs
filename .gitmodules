@@ -1,4 +1,4 @@
 [submodule "ui-service-ias"]
 	path = ui-service-ias
-	url = ./ui-service-ias
+	url = https://github.com:sxxxi/ui-service-ias
 	branch = main
