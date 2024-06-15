@@ -2,3 +2,19 @@
 	path = ui-service-ias
 	url = https://github.com:sxxxi/ui-service-ias
 	branch = main
+[submodule "mediastore-service-ias"]
+	path = mediastore-service-ias
+	url = git@github.com:sxxxi/mediastore-service-ias
+	branch = main
+[submodule "portfolio-service-ias"]
+	path = portfolio-service-ias
+	url = git@github.com:sxxxi/portfolio-service-ias
+	branch = main
+[submodule "rabbitmq-ias"]
+	path = rabbitmq-ias
+	url = git@github.com:sxxxi/portfolio-mq-ias
+	branch = main
+[submodule "auth-service-ias"]
+	path = auth-service-ias
+	url = git@github.com:sxxxi/portfolio-auth-service-ias
+	branch = main
